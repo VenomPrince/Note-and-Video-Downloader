@@ -1,0 +1,3 @@
+yt-dlp
+pyinstaller
+py2app
