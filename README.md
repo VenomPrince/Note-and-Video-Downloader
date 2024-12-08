@@ -167,7 +167,6 @@ MIT License
 
 ## 📞 Support
 - Open GitHub Issues for bug reports
-- Email: support@devcompanion.com
 
 ## 🌟 Acknowledgments
 - yt-dlp Team
